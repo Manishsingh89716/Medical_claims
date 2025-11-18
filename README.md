@@ -1,4 +1,4 @@
-# SuperClaims – Automated Medical Claim Processing API
+# MedicalClaims – Automated Medical Claim Processing API
 
 This is an AI-powered FastAPI backend that automatically processes medical insurance claim documents.  
 Users upload multiple PDFs, and the system extracts data, classifies document types, validates claim consistency, and generates a final claim decision.
@@ -29,7 +29,7 @@ Users upload multiple PDFs, and the system extracts data, classifies document ty
 
 ### 1. Clone the project
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Manishsingh89716/Medical_claims.git
 cd medical_claim_api
 ```
 
